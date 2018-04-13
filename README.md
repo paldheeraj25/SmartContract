@@ -18,7 +18,7 @@ Boltt token contract consist of token and crowdsale contract which further class
 * Configurator - contract with main configuration for production
 
 ## Dual Blockchain (Block swap)
-Boltt smart contract is offering a special featur where the tokens are available on two block chains Waves and Ethereum together and user can swap their tokens between the two blockchains seemlesly with the help of investors dashboard back and forth.
+Boltt smart contract is offering a special feature where the tokens are available on two block chains Waves and Ethereum together and user can swap their tokens between the two blockchains seemlesly with the help of investors dashboard back and forth.
 
 ## How to manage contract
 To start working with contract you should follow next steps:
