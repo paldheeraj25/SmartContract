@@ -10,12 +10,12 @@
 ## Smart-contracts description : 
 Boltt token contract have special feature **Dual block chain swap** mechanism where user can seemlesly interchange the coin of Waes and ethereum blockchain.
 
-Contracts contains
-BolttToken - Token contract
-Block Swap functionlity
-Presale - Presale contract
-six stages
-Configurator - contract with main configuration for production
+* Contracts contains
+* BolttToken - Token contract
+* Block Swap functionlity
+* Presale - Presale contract
+* six stages
+* Configurator - contract with main configuration for production
 How to manage contract
 To start working with contract you should follow next steps:
 
