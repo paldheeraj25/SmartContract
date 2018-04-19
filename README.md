@@ -55,12 +55,12 @@ rateAllocation function is being used to change the rate of the token in differe
 stopSale will stop the sale andrestrict any more buyin of the tokens.
 ### moveToWaves()
 moveToWaves function is functino we deal with our dual blockchain. This function is used to tranfer the tokens of the user from ethereum to waves blockchain.
-### buy
+### buy()
 buy function let user buy the tokens and take care of the 8 denominations for the Boltt  decimal standards.
 ### paused() and unpaused()
 paused and unPaused functions are used to pause the sale during segmented sales.
 ### changeOwner()
 changeOwner function used to change the Boltt reserve.
-### preSale, privateSale, and mainSale~segments~
+### preSale, privateSale, and mainSale/segments
 These functions used to change the rate of the token during the sale.
 
